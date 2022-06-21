@@ -1,0 +1,234 @@
+Modo de Jogo: Jogador contra Jogador
+Vencedor e o Jogador 1	Jogadas feitas: 34
+Jogo Final
+Tabuleiro Grande
+0	_	0	
+X	X	X	
+X	_	_	
+
+Minitabuleiro 1
+X	0	0	
+_	0	0	
+0	_	_	
+
+
+Minitabuleiro 2
+X	_	_	
+_	0	0	
+0	_	0	
+
+
+Minitabuleiro 3
+X	_	_	
+0	0	0	
+0	_	_	
+
+
+Minitabuleiro 4
+_	_	X	
+0	_	X	
+_	_	X	
+
+
+Minitabuleiro 5
+X	X	X	
+_	_	_	
+_	_	0	
+
+
+Minitabuleiro 6
+X	X	X	
+_	_	_	
+_	_	_	
+
+
+Minitabuleiro 7
+X	X	X	
+_	_	_	
+_	_	_	
+
+
+Minitabuleiro 8
+_	_	_	
+_	_	_	
+_	_	_	
+
+
+Minitabuleiro 9
+0	_	X	
+0	_	_	
+_	_	X	
+
+Jogadas
+_	_	_	
+_	_	_	
+_	_	0	
+
+_	_	_	
+_	_	_	
+_	_	X	
+
+0	_	_	
+_	_	_	
+_	_	X	
+
+X	_	_	
+_	_	_	
+_	_	_	
+
+X	_	0	
+_	_	_	
+_	_	_	
+
+X	_	_	
+_	_	_	
+_	_	_	
+
+X	_	0	
+_	0	_	
+_	_	_	
+
+X	_	_	
+_	_	_	
+_	_	0	
+
+X	_	0	
+_	0	0	
+_	_	_	
+
+_	_	X	
+_	_	_	
+_	_	_	
+
+X	_	_	
+_	0	_	
+_	_	_	
+
+X	_	X	
+_	_	_	
+_	_	0	
+
+X	_	_	
+0	0	_	
+_	_	_	
+
+_	_	_	
+_	_	_	
+_	_	X	
+
+0	_	_	
+0	_	_	
+_	_	X	
+
+_	_	X	
+_	_	_	
+_	_	X	
+
+X	_	_	
+0	0	_	
+0	_	_	
+
+_	X	_	
+_	_	_	
+_	_	_	
+
+_	_	_	
+_	0	_	
+_	_	_	
+
+X	X	X	
+_	_	_	
+_	_	0	
+
+Ganhou o minitabuleiro 5
+Tabuleiro Principal
+_	_	_	
+_	X	_	
+_	_	_	
+
+_	_	_	
+_	0	_	
+_	_	0	
+
+0	_	X	
+0	_	_	
+_	_	X	
+
+X	_	_	
+0	0	0	
+0	_	_	
+
+Ganhou o minitabuleiro 3
+Tabuleiro Principal
+_	_	0	
+_	X	_	
+_	_	_	
+
+X	_	X	
+_	_	_	
+_	_	_	
+
+X	0	0	
+_	0	0	
+_	_	_	
+
+X	_	_	
+_	0	_	
+_	_	0	
+
+X	0	0	
+_	0	0	
+0	_	_	
+
+Ganhou o minitabuleiro 1
+Tabuleiro Principal
+0	_	0	
+_	X	_	
+_	_	_	
+
+X	X	_	
+_	_	_	
+_	_	_	
+
+X	_	_	
+_	0	0	
+_	_	0	
+
+X	X	X	
+_	_	_	
+_	_	_	
+
+Ganhou o minitabuleiro 6
+Tabuleiro Principal
+0	_	0	
+_	X	X	
+_	_	_	
+
+X	_	_	
+_	0	0	
+0	_	0	
+
+X	X	X	
+_	_	_	
+_	_	_	
+
+Ganhou o minitabuleiro 7
+Tabuleiro Principal
+0	_	0	
+_	X	X	
+X	_	_	
+
+_	_	X	
+0	_	_	
+_	_	X	
+
+_	_	X	
+0	_	X	
+_	_	X	
+
+Ganhou o minitabuleiro 4
+Tabuleiro Principal
+0	_	0	
+X	X	X	
+X	_	_	
+

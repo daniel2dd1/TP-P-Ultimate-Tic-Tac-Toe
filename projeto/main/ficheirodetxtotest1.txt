@@ -1,0 +1,307 @@
+olaModo de Jogo: Individual
+Vencedor e o Jogador	Jogadas feitas: 39
+Jogo Final
+Tabuleiro Grande
+X	0	_	
+_	0	_	
+X	X	X	
+
+Minitabuleiro 1
+X	_	_	
+_	X	0	
+_	_	X	
+
+
+Minitabuleiro 2
+_	X	_	
+_	0	_	
+0	0	0	
+
+
+Minitabuleiro 3
+X	_	X	
+0	_	_	
+_	0	_	
+
+
+Minitabuleiro 4
+0	_	_	
+X	_	0	
+X	_	_	
+
+
+Minitabuleiro 5
+0	0	0	
+_	X	_	
+_	0	_	
+
+
+Minitabuleiro 6
+_	_	_	
+X	_	X	
+_	_	0	
+
+
+Minitabuleiro 7
+_	X	_	
+_	X	_	
+0	X	_	
+
+
+Minitabuleiro 8
+0	X	_	
+_	X	_	
+0	X	_	
+
+
+Minitabuleiro 9
+X	_	_	
+0	X	_	
+0	_	X	
+
+Jogadas
+
+Jogador fez a Jogada 1	Minitabuleiro 2	x: 1	y:2
+_	X	_	
+_	_	_	
+_	_	_	
+
+Computador fez a Jogada 2	Minitabuleiro 2	x: 2	y:2
+_	X	_	
+_	0	_	
+_	_	_	
+
+
+Jogador fez a Jogada 3	Minitabuleiro 5	x: 2	y:2
+_	_	_	
+_	X	_	
+_	_	_	
+
+Computador fez a Jogada 4	Minitabuleiro 5	x: 3	y:2
+_	_	_	
+_	X	_	
+_	0	_	
+
+
+Jogador fez a Jogada 5	Minitabuleiro 8	x: 3	y:2
+_	_	_	
+_	_	_	
+_	X	_	
+
+Computador fez a Jogada 6	Minitabuleiro 8	x: 1	y:1
+0	_	_	
+_	_	_	
+_	X	_	
+
+
+Jogador fez a Jogada 7	Minitabuleiro 1	x: 1	y:1
+X	_	_	
+_	_	_	
+_	_	_	
+
+Computador fez a Jogada 8	Minitabuleiro 1	x: 2	y:3
+X	_	_	
+_	_	0	
+_	_	_	
+
+
+Jogador fez a Jogada 9	Minitabuleiro 6	x: 2	y:3
+_	_	_	
+_	_	X	
+_	_	_	
+
+Computador fez a Jogada 10	Minitabuleiro 6	x: 3	y:3
+_	_	_	
+_	_	X	
+_	_	0	
+
+
+Jogador fez a Jogada 11	Minitabuleiro 9	x: 3	y:3
+_	_	_	
+_	_	_	
+_	_	X	
+
+Computador fez a Jogada 12	Minitabuleiro 9	x: 2	y:1
+_	_	_	
+0	_	_	
+_	_	X	
+
+
+Jogador fez a Jogada 13	Minitabuleiro 4	x: 2	y:1
+_	_	_	
+X	_	_	
+_	_	_	
+
+Computador fez a Jogada 14	Minitabuleiro 4	x: 2	y:3
+_	_	_	
+X	_	0	
+_	_	_	
+
+
+Jogador fez a Jogada 15	Minitabuleiro 6	x: 2	y:1
+_	_	_	
+X	_	X	
+_	_	0	
+
+Computador fez a Jogada 16	Minitabuleiro 4	x: 1	y:1
+0	_	_	
+X	_	0	
+_	_	_	
+
+
+Jogador fez a Jogada 17	Minitabuleiro 1	x: 2	y:2
+X	_	_	
+_	X	0	
+_	_	_	
+
+Computador fez a Jogada 18	Minitabuleiro 5	x: 1	y:1
+0	_	_	
+_	X	_	
+_	0	_	
+
+
+Jogador fez a Jogada 19	Minitabuleiro 1	x: 3	y:3
+X	_	_	
+_	X	0	
+_	_	X	
+
+Ganhou o minitabuleiro 1
+X	_	_	
+_	_	_	
+_	_	_	
+
+Computador fez a Jogada 20	Minitabuleiro 9	x: 3	y:1
+_	_	_	
+0	_	_	
+0	_	X	
+
+
+Jogador fez a Jogada 21	Minitabuleiro 7	x: 2	y:2
+_	_	_	
+_	X	_	
+_	_	_	
+
+Computador fez a Jogada 22	Minitabuleiro 5	x: 1	y:3
+0	_	0	
+_	X	_	
+_	0	_	
+
+
+Jogador fez a Jogada 23	Minitabuleiro 3	x: 1	y:1
+X	_	_	
+_	_	_	
+_	_	_	
+
+Computador fez a Jogada 24	Minitabuleiro 2	x: 3	y:3
+_	X	_	
+_	0	_	
+_	_	0	
+
+
+Jogador fez a Jogada 25	Minitabuleiro 9	x: 1	y:1
+X	_	_	
+0	_	_	
+0	_	X	
+
+Computador fez a Jogada 26	Minitabuleiro 2	x: 3	y:1
+_	X	_	
+_	0	_	
+0	_	0	
+
+
+Jogador fez a Jogada 27	Minitabuleiro 7	x: 1	y:2
+_	X	_	
+_	X	_	
+_	_	_	
+
+Computador fez a Jogada 28	Minitabuleiro 2	x: 3	y:2
+_	X	_	
+_	0	_	
+0	0	0	
+
+Ganhou o minitabuleiro 2
+X	0	_	
+_	_	_	
+_	_	_	
+
+
+Jogador fez a Jogada 29	Minitabuleiro 8	x: 1	y:2
+0	X	_	
+_	_	_	
+_	X	_	
+
+Computador fez a Jogada 30	Minitabuleiro 3	x: 2	y:1
+X	_	_	
+0	_	_	
+_	_	_	
+
+
+Jogador fez a Jogada 31	Minitabuleiro 4	x: 3	y:1
+0	_	_	
+X	_	0	
+X	_	_	
+
+Computador fez a Jogada 32	Minitabuleiro 7	x: 3	y:1
+_	X	_	
+_	X	_	
+0	_	_	
+
+
+Jogador fez a Jogada 33	Minitabuleiro 7	x: 3	y:2
+_	X	_	
+_	X	_	
+0	X	_	
+
+Ganhou o minitabuleiro 7
+X	0	_	
+_	_	_	
+X	_	_	
+
+Computador fez a Jogada 34	Minitabuleiro 8	x: 3	y:1
+0	X	_	
+_	_	_	
+0	X	_	
+
+
+Jogador fez a Jogada 35	Minitabuleiro 8	x: 2	y:2
+0	X	_	
+_	X	_	
+0	X	_	
+
+Ganhou o minitabuleiro 8
+X	0	_	
+_	_	_	
+X	X	_	
+
+Computador fez a Jogada 36	Minitabuleiro 5	x: 1	y:2
+0	0	0	
+_	X	_	
+_	0	_	
+
+Ganhou o minitabuleiro 5
+X	0	_	
+_	0	_	
+X	X	_	
+
+
+Jogador fez a Jogada 37	Minitabuleiro 3	x: 1	y:3
+X	_	X	
+0	_	_	
+_	_	_	
+
+Computador fez a Jogada 38	Minitabuleiro 3	x: 3	y:2
+X	_	X	
+0	_	_	
+_	0	_	
+
+
+Jogador fez a Jogada 39	Minitabuleiro 9	x: 2	y:2
+X	_	_	
+0	X	_	
+0	_	X	
+
+Ganhou o minitabuleiro 9
+X	0	_	
+_	0	_	
+X	X	X	
+

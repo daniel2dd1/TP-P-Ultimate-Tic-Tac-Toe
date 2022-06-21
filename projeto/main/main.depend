@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1652118814 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1652118814 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\utils.h
+
+1655648137 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+	"retomarJogo.h"
+
+1652118814 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\matdin.c
+	"matdin.h"
+
+1652804181 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\matdin.h
+	<stdlib.h>
+	<stdio.h>
+
+1655648209 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\matdin.c
+	"matdin.h"
+	"jogadasant.h"
+
+1655652050 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\matdin.h
+	<stdlib.h>
+	<stdio.h>
+
+1655566502 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1652804861 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\utils.h
+
+1655647154 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\2jogadores.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+
+1655644128 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\2jogadores.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"matdin.h"
+	"guardajogo.h"
+
+1653821233 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\verifica.c
+
+1655652043 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\1vcpu.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"matdin.h"
+	"guardajogo.h"
+
+1655647146 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\1vcpu.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+
+1655647146 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\jogadasant.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"jogadasant.h"
+	"matdin.h"
+
+1655649820 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\jogadasant.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1655653501 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\guardajogo.c
+	"guardajogo.h"
+	"jogadasant.h"
+	"matdin.h"
+
+1655595497 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\guardajogo.h
+	<stdlib.h>
+	<stdio.h>
+	"matdin.h"
+	"jogadasant.h"
+
+1655569551 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\header_global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+
+1655584625 source:c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\retomarjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+
+1655579727 c:\users\daniel rodrigues\desktop\licensia\prog\projeto\main\retomarjogo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"2jogadores.h"
+	"matdin.h"
+	"1vcpu.h"
+	"utils.h"
+	"jogadasant.h"
+	"guardajogo.h"
+
